@@ -15,7 +15,7 @@ The Decision Support Dashboard for Study Abroad Selection is an interactive tool
 * Identified distinct clusters of countries based on COVID-19 trends and socioeconomic factors.
 * Provided insights into the impact of COVID-19 on study abroad options, facilitating informed decision-making.
 
-![an image caption Source: Final Cluster](images/fina_cluster.png)
+![an image caption Source: Final Cluster](images/final_cluster.png)
 
 
 This project is designed to empower students with the necessary information and insights to make well-informed decisions about their study abroad endeavors, even in the face of unprecedented challenges.
