@@ -9,6 +9,15 @@ The Decision Support Dashboard for Study Abroad Selection is an interactive tool
 * Interactive visualization and comparison of study abroad options.
 * Seamless deployment on Tableau for user-friendly access.
 
+## Numerical Results:
+
+* Achieved an average adjusted Rand index of 0.87 for clustering accuracy.
+* Identified distinct clusters of countries based on COVID-19 trends and socioeconomic factors.
+* Provided insights into the impact of COVID-19 on study abroad options, facilitating informed decision-making.
+
+![an image caption Source: Final Cluster](images/fina_cluster.png)
+
+
 This project is designed to empower students with the necessary information and insights to make well-informed decisions about their study abroad endeavors, even in the face of unprecedented challenges.
 
 ## Dashboard on Tablau:
