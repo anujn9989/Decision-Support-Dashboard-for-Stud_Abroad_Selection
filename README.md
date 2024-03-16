@@ -4,8 +4,9 @@ The Decision Support Dashboard for Study Abroad Selection is an interactive tool
 
 ## Key Features:
 
-Integration of COVID-19 trends, socioeconomic indices, and university rankings data.
-Utilization of advanced clustering algorithms for grouping countries.
-Interactive visualization and comparison of study abroad options.
-Seamless deployment on Tableau for user-friendly access.
+* Integration of COVID-19 trends, socioeconomic indices, and university rankings data.
+* Utilization of advanced clustering algorithms for grouping countries.
+* Interactive visualization and comparison of study abroad options.
+* Seamless deployment on Tableau for user-friendly access.
+
 This project is designed to empower students with the necessary information and insights to make well-informed decisions about their study abroad endeavors, even in the face of unprecedented challenges.
