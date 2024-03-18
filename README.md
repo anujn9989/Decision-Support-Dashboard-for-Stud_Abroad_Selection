@@ -21,4 +21,7 @@ The Decision Support Dashboard for Study Abroad Selection is an interactive tool
 This project is designed to empower students with the necessary information and insights to make well-informed decisions about their study abroad endeavors, even in the face of unprecedented challenges.
 
 ## Dashboard on Tablau:
-https://public.tableau.com/app/profile/christopher.tong2548/viz/COVID-03DEMO/Home?publish=yes
+
+![an image caption Source: map](images/map.png)
+
+Link: https://public.tableau.com/app/profile/christopher.tong2548/viz/COVID-03DEMO/Home?publish=yes
